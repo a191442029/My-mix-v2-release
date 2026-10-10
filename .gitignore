@@ -1,0 +1,4 @@
+# HAP 包体积大（约 14MB），一律不进 git 历史。
+# 它们只作为 GitHub Release 附件上传，仓库本体保持轻量。
+hap/
+*.hap
