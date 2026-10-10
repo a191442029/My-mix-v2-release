@@ -55,6 +55,19 @@ hdc shell aa start -a EntryAbility -b com.mymixnew.myapplication
 
 ---
 
+## 加入交流群
+
+测试群「**纯血鸿蒙Mymix V2测试群**」：反馈问题、第一时间获取新测试包通知。
+
+<p align="center">
+  <img src="assets/wechat_group_qr.png" width="300" alt="微信群二维码">
+</p>
+
+> ⚠️ 微信群二维码 **7 天过期**（当前有效期至 **10 月 17 日**）。
+> 过期后请到最新 Release 的说明里找新码，过期是正常现象，换图不需要重新发版。
+
+---
+
 ## 反馈
 
 测试中发现的问题，请联系开发者反馈。反馈时请附上：
