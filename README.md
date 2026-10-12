@@ -44,7 +44,7 @@ HarmonyOS NEXT 多论坛客户端 **MyMix v2** 的**测试版本**分发仓库�
 ### 方式三：hdc 命令行（开发者，仅当设备 UDID 已登记在签名 profile 中）
 
 ```bash
-hdc -t <设备序列号> install -r MyMix-v2_v1.0.0-test.N.hap
+hdc -t <设备序列号> install -r MyMix-v2_v1.0.1-test.N.hap
 hdc shell aa start -a EntryAbility -b com.mymixnew.myapplication
 ```
 
@@ -77,7 +77,7 @@ hdc shell aa start -a EntryAbility -b com.mymixnew.myapplication
 
 | 项目 | 说明 |
 | --- | --- |
-| 版本号 | `1.0.0 (1000000)` |
+| 版本号 | `1.0.1 (1000000)` |
 | 徽标 | 橙色「测试版」= debug 构建；绿色「正式版」= release 构建 |
 | 安装时间 | 该包的实际安装时刻。**装完新包后请核对这项刷新了**，否则说明没装成功 |
 
@@ -89,7 +89,7 @@ hdc shell aa start -a EntryAbility -b com.mymixnew.myapplication
 | --- | --- |
 | NGA | 可用 |
 | 4D4Y | 可用 |
-| CHIPHELL | 未接入 |
+| CHIPHELL | 可用 |
 
 ---
 
