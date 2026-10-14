@@ -90,6 +90,11 @@ hdc shell aa start -a EntryAbility -b com.mymixnew.myapplication
 | NGA | 可用 |
 | 4D4Y | 可用 |
 | CHIPHELL | 可用 |
+| 恩山无线论坛 | 可用 |
+| V2EX | 可用 |
+| TGFC | 可用 |
+
+> 恩山 / V2EX / TGFC 为新增站点，部分功能仍在真机实测中，遇到问题欢迎在群里反馈。
 
 ---
 
