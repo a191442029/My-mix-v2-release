@@ -90,11 +90,6 @@ hdc shell aa start -a EntryAbility -b com.mymixnew.myapplication
 | NGA | 可用 |
 | 4D4Y | 可用 |
 | CHIPHELL | 可用 |
-| 恩山无线论坛 | 可用 |
-| V2EX | 可用 |
-| TGFC | 可用 |
-
-> 恩山 / V2EX / TGFC 为新增站点，部分功能仍在真机实测中，遇到问题欢迎在群里反馈。
 
 ---
 
@@ -106,7 +101,7 @@ hdc shell aa start -a EntryAbility -b com.mymixnew.myapplication
   <img src="assets/wechat_group_qr.png" width="300" alt="微信群二维码">
 </p>
 
-> ⚠️ 微信群二维码 **7 天过期**（当前有效期至 **10 月 17 日**）。
+> ⚠️ 微信群二维码 **7 天过期**（当前有效期至 **10 月 23 日**）。
 > 过期后请到最新 Release 的说明里找新码，过期是正常现象，换图不需要重新发版。
 
 ---
