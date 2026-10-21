@@ -94,6 +94,8 @@ hdc shell aa start -a EntryAbility -b com.mymixnew.myapplication
 | V2EX | 可用（BETA） |
 | TGFC | 可用（BETA） |
 | 泰聊 | 可用（BETA） |
+| Stage1st（stage1） | 可用（BETA） |
+| 瀚思彼岸（hassbian） | 可用（BETA） |
 
 > **BETA** 表示站点已接入、基础浏览/发帖可用，但尚未全量验证，功能可能不稳定。
 
