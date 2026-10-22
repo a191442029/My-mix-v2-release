@@ -109,7 +109,7 @@ hdc shell aa start -a EntryAbility -b com.mymixnew.myapplication
   <img src="assets/wechat_group_qr.png" width="300" alt="微信群二维码">
 </p>
 
-> ⚠️ 微信群二维码 **7 天过期**（当前有效期至 **10 月 23 日**）。
+> ⚠️ 微信群二维码 **7 天过期**（当前有效期至 **10 月 29 日**）。
 > 过期后请到最新 Release 的说明里找新码，过期是正常现象，换图不需要重新发版。
 
 ---
