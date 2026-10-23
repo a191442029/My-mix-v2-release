@@ -96,6 +96,7 @@ hdc shell aa start -a EntryAbility -b com.mymixnew.myapplication
 | 泰聊 | 可用（BETA） |
 | Stage1st（stage1） | 可用（BETA） |
 | 瀚思彼岸（hassbian） | 可用（BETA） |
+| 钱币网（pm001） | 可用（BETA，只读：禁发帖/回帖/短消息） |
 
 > **BETA** 表示站点已接入、基础浏览/发帖可用，但尚未全量验证，功能可能不稳定。
 
